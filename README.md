@@ -35,12 +35,18 @@ For your **yidams (meditation deities) and bodhisattvas** you work with — Tara
 ## How to Use It
 
 ### As a webpage altar
-1. Download `index.html`
-2. Open it in any browser (Chrome, Firefox, Safari — all work)
-3. Click any frame to upload a thangka image from your device
-4. Click the butter lamps individually to light them (they flicker 🕯)
-5. Click the incense sticks or coil to offer incense (smoke rises)
-6. The seven water bowls are already set
+
+- Download the repository ZIP file from GitHub (or you can download index.html directly.)
+- Extract the ZIP file 
+- Open index.html in any browser (Chrome, Firefox, Safari, — all work).
+
+### Creating Offerings
+- Click any frame to upload a thangka image from your device
+- Click the butter lamps individually to light them (they flicker 🕯)
+- Click the incense sticks or coil to offer incense (smoke rises)
+- The seven water bowls are already set
+
+All images remain on your device. Nothing is uploaded or stored online.
 
 ### Using the Dharma Player
 Click the **☸ dharma player** button below the altar to open the audio panel.
