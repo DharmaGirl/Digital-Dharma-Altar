@@ -35,7 +35,7 @@ For your **yidams (meditation deities) and bodhisattvas** you work with — Tara
 ## How to Use It
 
 ### As a webpage altar
-1. Download `altar.html`
+1. Download `index.html`
 2. Open it in any browser (Chrome, Firefox, Safari — all work)
 3. Click any frame to upload a thangka image from your device
 4. Click the butter lamps individually to light them (they flicker 🕯)
