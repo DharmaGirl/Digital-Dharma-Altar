@@ -30,10 +30,6 @@ Following the traditional three supports of enlightened body, speech, and mind:
 ### Bottom Shelf — Ten small frames
 For your **yidams (meditation deities) and bodhisattvas** you work with — Tara, Chenrezig, Mañjuśrī, Vajrapāṇi, and so on.
 
-The mantra at the top of the altar is the Śākyamuni Buddha mantra:
-> **ༀ་མུ་ནི་མུ་ནི་མཧཱ་མུ་ནི་ཤཱཀྱ་མུ་ནི་སྭཱཧཱ།**
-> *Om muni muni mahāmuni śākyamuni svāhā*
-
 ---
 
 ## How to Use It
@@ -46,6 +42,19 @@ The mantra at the top of the altar is the Śākyamuni Buddha mantra:
 5. Click the incense sticks or coil to offer incense (smoke rises)
 6. The seven water bowls are already set
 
+### Using the Dharma Player
+Click the **☸ dharma player** button below the altar to open the audio panel.
+
+- **+ mp3** next to each track slot — click to load an audio file from your device. The filename becomes the track name automatically.
+- **Four track slots** — load up to four recitations, sutras, mantras, or chants
+- **Full controls** — play, pause, previous, next, loop single track, volume
+- **Progress bar** — click anywhere on it to seek
+- **Auto-advance** — when a track ends it moves to the next loaded track
+
+Everything plays locally from your device. No streaming, no internet required.
+
+---
+
 ### As a printed poster
 1. Set up your images in the frames
 2. Take a screenshot (or use browser print → save as PDF)
@@ -54,6 +63,25 @@ The mantra at the top of the altar is the Śākyamuni Buddha mantra:
 
 ### Sharing with others
 You can also host this on GitHub Pages for free, so anyone can open and use it directly in their browser without downloading anything. See below.
+
+---
+
+## Where to Find Free Dharma Audio
+
+**FPMT (Foundation for the Preservation of the Mahayana Tradition)**
+[fpmt.org/shop](https://fpmt.org/shop) — many recitations are free or pay-what-you-wish, including the Sutra of Golden Light, Heart Sutra, Vajrasattva mantra, and more. Search "audio" or "MP3" in their shop.
+
+**Lama Yeshe Wisdom Archive**
+[lamayeshe.com](https://www.lamayeshe.com) — free teachings and recitations from Lama Zopa Rinpoche and Lama Yeshe.
+
+**84000: Translating the Words of the Buddha**
+[84000.co](https://84000.co) — free translations of sutras. Some also have audio recitations.
+
+**Garchen Buddhist Institute**
+[garchen.net](https://garchen.net) — Garchen Rinpoche has made many teachings and recitations freely available.
+
+**Lotsawa House**
+[lotsawahouse.org](https://www.lotsawahouse.org) — extensive free library of Tibetan Buddhist texts and prayers in translation.
 
 ---
 
